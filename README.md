@@ -1,5 +1,4 @@
-django-skeleton
-===============
+# django-app-skeleton
 
 skeleton for new django applications.
 
@@ -14,11 +13,11 @@ All following sections are just dummies and may not work as excepted.
 
 If you want to install the latest stable release from PyPi:
 
-    $ pip install django-skeleton
+    $ pip install django-app-skeleton
   
 If you want to install the latest development version from GitHub:
 
-    $ pip install -e git://github.com/byteweaver/django-skeleton#egg=django-skeleton
+    $ pip install -e git://github.com/byteweaver/django-app-skeleton#egg=django-app-skeleton
 
 Add `skeleton` to your `INSTALLED_APPS`:
 
